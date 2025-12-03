@@ -69,5 +69,10 @@
   "json.schemaDownload.enable": true,
   "notebook.formatOnSave.enabled": true,
   "update.mode": "default",
-  "window.zoomLevel": 2
+  "window.zoomLevel": 2,
+
+   // ---- Hide UI Elements -----
+  "window.commandCenter": false,
+  "workbench.editor.showTabs": "single",
+  "breadcrumbs.enabled": false
 }
