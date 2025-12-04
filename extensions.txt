@@ -1,0 +1,32 @@
+Auto Import
+Black Formatter
+Code Runner
+Container Tools
+Dev Containers
+Docker
+ES7+ React/Redux/React-Native
+ESLint
+Github Pull Requests
+GitLens
+HTML CSS Support
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Slide Show
+Live Server
+Live Share
+Panda Theme
+Path Intellisense
+Prettier - Code formatter
+Prisma
+Pylance
+Python
+Python Debugger
+Python Environments
+Rainbow CSS
+Tailwind CSS Intellisense
+Template String Converter
+YAML
+HashiCorp Terraform
+Kubernetes
