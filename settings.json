@@ -74,5 +74,6 @@
    // ---- Hide UI Elements -----
   "window.commandCenter": false,
   "workbench.editor.showTabs": "single",
-  "breadcrumbs.enabled": false
+  "breadcrumbs.enabled": false,
+  "workbench.colorTheme": "Panda Syntax"
 }
